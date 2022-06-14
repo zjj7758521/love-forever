@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter-01-javabasic/chapter-01-javabasic.iml" filepath="$PROJECT_DIR$/chapter-01-javabasic/chapter-01-javabasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-02-operator/chapter-02-operator.iml" filepath="$PROJECT_DIR$/chapter-02-operator/chapter-02-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-03-process/chapter-03-process.iml" filepath="$PROJECT_DIR$/chapter-03-process/chapter-03-process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-04-array/chapter-04-array.iml" filepath="$PROJECT_DIR$/chapter-04-array/chapter-04-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-05-method/chapter-05-method.iml" filepath="$PROJECT_DIR$/chapter-05-method/chapter-05-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-06-review/chapter-06-review.iml" filepath="$PROJECT_DIR$/chapter-06-review/chapter-06-review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-07-oom/chapter-07-oom.iml" filepath="$PROJECT_DIR$/chapter-07-oom/chapter-07-oom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-08-string/chapter-08-string.iml" filepath="$PROJECT_DIR$/chapter-08-string/chapter-08-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-09-arrayList/chapter-09-arraylist.iml" filepath="$PROJECT_DIR$/chapter-09-arrayList/chapter-09-arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-10-upgradetest/chapter-10-upgradetest.iml" filepath="$PROJECT_DIR$/chapter-10-upgradetest/chapter-10-upgradetest.iml" />
+    </modules>
+  </component>
+</project>
